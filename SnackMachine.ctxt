@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=SnackMachine
+comment0.text=\r\n\ Class\ to\ represent\ a\ snack\ machine\ containing\ crisps\r\n\ \r\n\ @author\ Joshua\ Sawyer\r\n\ @version\ 1.0\r\n
+comment1.params=maxCapacity\ packCost
+comment1.target=SnackMachine(int,\ int)
+comment1.text=\r\n\ Initializes\ class\ fields\r\n\ \r\n\ @param\ maxCapacity\ the\ maximum\ capacity\ of\ the\ machine\r\n\ @param\ packCost\ the\ cost\ of\ 1\ packet\ of\ crisps\r\n
+comment2.params=
+comment2.target=int\ getCost()
+comment2.text=\r\n\ Returns\ the\ cost\ of\ a\ single\ packet\ of\ crisps\r\n\ \r\n\ @return\ the\ cost\ of\ a\ single\ packet\ of\ crisps\r\n
+comment3.params=pack
+comment3.target=void\ addPack(PackOfCrisps)
+comment3.text=\r\n\ Adds\ a\ packet\ to\ the\ machine\r\n\ \r\n\ @param\ pack\ the\ PackOfCrisps\ to\ add\r\n
+comment4.params=flavour
+comment4.target=int\ countPacks(java.lang.String)
+comment4.text=\r\n\ Counts\ the\ amount\ of\ packets\ of\ a\ given\ flavour\r\n\ \r\n\ @return\ number\ of\ packets\ with\ the\ given\ flavour\r\n\ @param\ flavour\ the\ flavour\ of\ the\ packets\ to\ count\r\n
+comment5.params=penny
+comment5.target=void\ insertMoney(Penny)
+comment5.text=\r\n\ Inserts\ a\ penny\ into\ the\ machine\r\n\ \r\n\ @param\ penny\ the\ penny\ to\ insert\r\n
+comment6.params=flavour
+comment6.target=PackOfCrisps\ buyPack(java.lang.String)
+comment6.text=\r\n\ Purchases\ a\ pack\ of\ crisps\ from\ the\ machine\ as\ long\ as\ there\ is\ enough\ money\ and\ the\ desired\ flavour\ is\ in\ stock\r\n\ \r\n\ @return\ the\ bought\ packet\ of\ crisps\r\n\ @param\ flavour\ the\ flavour\ to\ buy\r\n
+comment7.params=
+comment7.target=void\ describe()
+comment7.text=\r\n\ Prints\ how\ many\ packets\ the\ machine\ holds\ and\ the\ amount\ of\ money\ in\ the\ machine\r\n
+numComments=8

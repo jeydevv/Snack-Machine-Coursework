@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PackOfCrisps
+comment0.text=\r\n\ Class\ to\ represent\ a\ single\ packet\ of\ crisps\r\n\ \r\n\ @author\ Joshua\ Sawyer\r\n\ @version\ 1.0\r\n
+comment1.params=packFlavour
+comment1.target=PackOfCrisps(java.lang.String)
+comment1.text=\r\n\ Initializes\ all\ class\ fields\r\n\ \r\n\ @param\ packFlavour\ the\ flavour\ of\ the\ packet\r\n
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment2.text=\r\n\ Returns\ whether\ the\ packet\ is\ empty\r\n\ \r\n\ @return\ true\ if\ packet\ is\ empty,\ false\ if\ not\r\n
+comment3.params=
+comment3.target=boolean\ isClosed()
+comment3.text=\r\n\ Returns\ whether\ the\ packet\ is\ closed\r\n\ \r\n\ @return\ true\ if\ the\ packet\ is\ closed,\ false\ if\ not\r\n
+comment4.params=
+comment4.target=void\ open()
+comment4.text=\r\n\ Opens\ the\ packet\ if\ it\ isn't\ already\r\n
+comment5.params=
+comment5.target=java.lang.String\ getFlavour()
+comment5.text=\r\n\ Returns\ the\ flavour\ of\ the\ packet\r\n\ \r\n\ @return\ the\ flavour\ of\ the\ packet\r\n
+comment6.params=
+comment6.target=void\ eatCrisp()
+comment6.text=\r\n\ Removes\ a\ single\ crisp\ if\ the\ packet\ is\ open\ and\ there's\ atleast\ 1\ left\r\n
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Class\ to\ represent\ a\ student\r\n\ \r\n\ @author\ Joshua\ Sawyer\r\n\ @version\ 1.0\r\n
+comment1.params=flavour\ machine
+comment1.target=Student(java.lang.String,\ SnackMachine)
+comment1.text=\r\n\ Initializes\ the\ class\ fields\r\n\ \r\n\ @param\ flavour\ the\ students\ favourite\ flavour\r\n\ @param\ machine\ the\ SnackMachine\ that\ the\ student\ is\ going\ to\ use\r\n
+comment2.params=
+comment2.target=void\ buyCrisps()
+comment2.text=\r\n\ Buys\ a\ pack\ of\ crisps\ from\ the\ machine\ as\ long\ as\ they\ have\ enough\ pennies\ and\ their\ favourite\ flavour\ is\ in\ stock\r\n
+comment3.params=
+comment3.target=void\ snackTime()
+comment3.text=\r\n\ Eat\ a\ crisp\ from\ the\ crisp\ packet\ as\ long\ as\ the\ packet\:\ exists,\ is\ open\ and\ isn't\ empty\r\n
+numComments=4

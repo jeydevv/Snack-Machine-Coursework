@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SnackBar
+comment0.text=\r\n\ Class\ to\ represent\ a\ singular\ snack\ bar\r\n\ \r\n\ @author\ Joshua\ Sawyer\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ main\ function\ for\ program\ entry\ through\ the\ command\ line\r\n\ \r\n\ @param\ args\ the\ arguments\ parsed\ in\ the\ command\ line\r\n
+comment2.params=numOfStudents\ packetCount\ packetCost
+comment2.target=SnackBar(int,\ int,\ int)
+comment2.text=\r\n\ Initializes\ and\ sets\ all\ class\ fields\r\n\ \r\n\ @param\ numOfStudents\ the\ number\ of\ students\ in\ the\ snack\ bar\r\n\ @param\ packetCount\ the\ amount\ of\ packets\ in\ the\ snack\ machine\r\n\ @param\ packetCost\ the\ cost\ of\ a\ single\ packet\ of\ crisps\r\n
+comment3.params=
+comment3.target=java.lang.String\ randomFlavour()
+comment3.text=\r\n\ Returns\ a\ random\ flavour\r\n\ \r\n\ @return\ a\ random\ flavour\r\n
+comment4.params=
+comment4.target=void\ describe()
+comment4.text=\r\n\ Prints\ a\ summary\ of\ the\ snack\ bar\ students\ and\ stock\r\n
+comment5.params=nSteps
+comment5.target=void\ runSnackBar(int)
+comment5.text=\r\n\ Calls\ snackTime()\ on\ a\ random\ students\ nSteps\ number\ of\ times\r\n\ \r\n\ @param\ nSteps\ the\ number\ of\ steps\ to\ run\r\n
+numComments=6
